@@ -131,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.feasable.org.ico",
     "slug": "feasable-status-page",
     "status": "up",
-    "uptime": "2.38%",
-    "uptimeDay": "2.38%",
-    "uptimeWeek": "2.38%",
-    "uptimeMonth": "2.38%",
-    "uptimeYear": "2.38%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 329,
     "timeDay": 329,
     "timeWeek": 329,
     "timeMonth": 329,
     "timeYear": 329,
-    "dailyMinutesDown": {
-      "2026-08-30": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Para Free Proxy",
