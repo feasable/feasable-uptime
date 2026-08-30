@@ -17,7 +17,7 @@ sites:
   - name: UptimeKit Dashboard
     url: https://uptime.feasable.org/api/health
   - name: Feasable Status Page
-    url: https://status.feasable.org/feasable
+    url: https://status.feasable.org/
   - name: Para Free Proxy
     url: https://api.parastus.me/api/ping
 
