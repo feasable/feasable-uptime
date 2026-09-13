@@ -4,18 +4,20 @@
     "url": "https://api.feasable.org/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.feasable.org.ico",
     "slug": "feasable-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 715,
-    "timeDay": 871,
-    "timeWeek": 723,
-    "timeMonth": 715,
-    "timeYear": 715,
-    "dailyMinutesDown": {}
+    "time": 702,
+    "timeDay": 683,
+    "timeWeek": 695,
+    "timeMonth": 702,
+    "timeYear": 702,
+    "dailyMinutesDown": {
+      "2026-09-13": 0
+    }
   },
   {
     "name": "Feasable Payments",
